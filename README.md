@@ -139,4 +139,3 @@ Edit `data/college_faq.json` to add your college's actual information:
 
 ---
 
-*Made with ❤️ and MiniMax AI*
