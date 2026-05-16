@@ -7,8 +7,7 @@
 
 ## 🌐 Live Demo
 
-> **[👉 View Live on Vercel](https://collegebot-ai.vercel.app)**  
-> *(Link will be updated after deployment)*
+> **[👉 View Live on Vercel](https://collegebot-ai.vercel.app)**
 
 ---
 
