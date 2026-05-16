@@ -1,0 +1,136 @@
+[
+  {
+    "category": "Admissions",
+    "questions": [
+      {
+        "q": "What are the eligibility criteria for BCA admission?",
+        "a": "To apply for BCA, you must have passed 10+2 (HSC) from a recognized board with at least 45% marks (40% for reserved categories). Mathematics or Statistics as a subject in 12th is preferred but not mandatory in all colleges."
+      },
+      {
+        "q": "What is the last date for admission?",
+        "a": "Admissions typically close by July 31st for the current academic year. However, spot admissions may be open until mid-August subject to seat availability. Please check the official notice board for exact dates."
+      },
+      {
+        "q": "What documents are required for admission?",
+        "a": "You need: 10th Marksheet & Certificate, 12th Marksheet & Certificate, Transfer Certificate (TC), Migration Certificate (if from another board), 6 Passport-size photos, Aadhaar card copy, Caste certificate (if applicable), and Income certificate (for scholarship)."
+      },
+      {
+        "q": "Is there an entrance exam for admission?",
+        "a": "Admission is mainly merit-based (12th marks). Some colleges conduct their own entrance test. For government seats, Maharashtra CET (MH-CET) score may be required. Private college admissions are usually direct based on merit."
+      },
+      {
+        "q": "Can I apply online for admission?",
+        "a": "Yes! Online applications are available on the college website. Visit the Admissions section, fill the form, upload documents, and pay the application fee online. You will receive a confirmation email after submission."
+      }
+    ]
+  },
+  {
+    "category": "Fee Structure",
+    "questions": [
+      {
+        "q": "What is the total fee for BCA?",
+        "a": "The BCA program is 3 years (6 semesters). Annual fee is approximately ₹45,000–₹75,000 depending on your college type. Government-aided colleges charge lower fees (₹15,000–₹25,000/year). Always confirm current fees at the accounts office."
+      },
+      {
+        "q": "Are there any scholarships available?",
+        "a": "Yes! Scholarships available include: Government of Maharashtra scholarships for SC/ST/OBC students, EBC (Economically Backward Class) scholarship, Merit scholarship for top scorers, Minority scholarship, and Central Government scholarships via NSP portal. Apply through mahadbt.maharashtra.gov.in."
+      },
+      {
+        "q": "What is the fee payment schedule?",
+        "a": "Fees are paid semester-wise: Semester 1 fee at the time of admission (June/July), Semester 2 fee in January. Late payment incurs a fine of ₹50/day after the due date. Online payment is available through the college portal."
+      },
+      {
+        "q": "Is hostel fee included in the college fee?",
+        "a": "No, hostel fee is separate. Hostel charges are approximately ₹35,000–₹50,000 per year including accommodation and mess charges. Contact the hostel warden's office for the current fee structure and availability."
+      }
+    ]
+  },
+  {
+    "category": "Academics & Exams",
+    "questions": [
+      {
+        "q": "When are the semester exams held?",
+        "a": "Semester exams are held twice a year: November/December for odd semesters (1st, 3rd, 5th) and April/May for even semesters (2nd, 4th, 6th). Internal practical exams and assignments are conducted throughout the semester."
+      },
+      {
+        "q": "What is the minimum attendance required?",
+        "a": "A minimum of 75% attendance is mandatory to appear in semester exams. Students with less than 75% attendance will be detained and cannot appear in the university exam. Medical certificates are considered for genuine cases."
+      },
+      {
+        "q": "How can I check my exam results?",
+        "a": "Results are published on the university website. For Mumbai University: mu.ac.in. For Pune University: unipune.ac.in. You'll need your PRN (Permanent Registration Number) to check results. Results are usually declared within 60 days of exams."
+      },
+      {
+        "q": "What is the passing criteria?",
+        "a": "Students must score minimum 35% in each subject (theory + practical separately). Overall ATKT (Allowed to Keep Term) rules allow progression with backlogs in some subjects. Refer to university syllabus for exact passing marks per subject."
+      },
+      {
+        "q": "What subjects are taught in BCA?",
+        "a": "BCA covers: Semester 1–2: C Programming, Mathematics, Digital Electronics, Communication Skills. Semester 3–4: Data Structures, Java, DBMS, Operating Systems, Web Technologies. Semester 5–6: Python, Software Engineering, Networking, Project Work, Electives (AI/ML, Cloud Computing, Cybersecurity)."
+      }
+    ]
+  },
+  {
+    "category": "Placements & Internships",
+    "questions": [
+      {
+        "q": "Does the college have a placement cell?",
+        "a": "Yes! The Training & Placement Cell is very active. We have tie-ups with 50+ companies including TCS, Infosys, Wipro, Accenture, Cognizant, and many startups. The placement season starts from October for final year students."
+      },
+      {
+        "q": "What is the average package in placements?",
+        "a": "The average CTC offered to BCA graduates is ₹3–5 LPA. Top performers with strong skills get packages of ₹6–12 LPA from product companies. Companies like TCS offer ₹3.36 LPA for freshers as the base package."
+      },
+      {
+        "q": "How can I apply for internship?",
+        "a": "Internships (mandatory in BCA 5th semester) can be done through: College placement cell announcements, Internshala.com, LinkedIn, direct company applications. A minimum 4–6 week internship is required. Submit internship completion certificate to the department."
+      },
+      {
+        "q": "Which companies visit for campus placement?",
+        "a": "Companies that regularly visit include: IT Services: TCS, Infosys, Wipro, HCL, Tech Mahindra. Consulting: Accenture, Capgemini, Cognizant. Indian firms: Mphasis, Hexaware, Persistent. Startups: Various tech startups based in Pune and Mumbai."
+      }
+    ]
+  },
+  {
+    "category": "Facilities",
+    "questions": [
+      {
+        "q": "What are the library timings?",
+        "a": "Library is open Monday to Saturday: 9:00 AM to 6:00 PM. During exam period, extended hours till 8:00 PM. Students can borrow up to 3 books for 14 days. Digital library access (e-books & journals) is available 24/7 with student login."
+      },
+      {
+        "q": "Are computer labs available for students?",
+        "a": "Yes! We have 4 computer labs with 250+ systems, all with high-speed internet. Labs are available from 8:00 AM to 8:00 PM on working days. Students can also book lab time on weekends by prior permission from the department."
+      },
+      {
+        "q": "Is hostel facility available?",
+        "a": "Separate hostels for boys and girls are available on campus. Boys hostel capacity: 200 students. Girls hostel capacity: 150 students. Facilities include: furnished rooms (2-4 sharing), Wi-Fi, mess, laundry, 24/7 security. Apply early as seats fill up quickly."
+      },
+      {
+        "q": "Is there Wi-Fi on campus?",
+        "a": "Yes, the entire campus has high-speed Wi-Fi coverage (100 Mbps connection). Students get login credentials during admission. Wi-Fi is available in classrooms, library, hostels, and common areas. Speed may vary during peak hours."
+      }
+    ]
+  },
+  {
+    "category": "Contact & General",
+    "questions": [
+      {
+        "q": "What are the college timings?",
+        "a": "College hours are Monday to Saturday, 8:30 AM to 5:30 PM. First lecture starts at 9:00 AM. Office (admin) timings: 9:30 AM to 5:00 PM. Saturday: 9:00 AM to 1:00 PM. The college is closed on Sundays and public holidays."
+      },
+      {
+        "q": "How do I contact the principal's office?",
+        "a": "Principal's Office: principal@college.edu.in | Phone: 020-XXXXXXXX. For grievances, use the online grievance portal on the college website or drop a written application to the admin office. Response within 5 working days is guaranteed."
+      },
+      {
+        "q": "How do I get my bonafide certificate?",
+        "a": "Bonafide certificates are issued by the college office within 2 working days. Submit a written application at the admin counter with your student ID, the purpose (bank account, scholarship, etc.), and ₹20 fee. You can also apply online via the student portal."
+      },
+      {
+        "q": "What extracurricular activities are available?",
+        "a": "We have 15+ clubs and activities: Tech Club, Coding Club, Cultural committee, Sports teams (cricket, football, badminton, chess), NSS (National Service Scheme), Debate club, Photography club, Dance and Music groups. Annual fest 'TechFest' is held every February."
+      }
+    ]
+  }
+]
